@@ -1,0 +1,48 @@
+north pole,red bridge,82
+red bridge,alaska,103
+alaska,west mineola,107
+alaska,thayer,186
+alaska,lake wissota,96
+alaska,putney,125
+alaska,anchorage,52
+west mineola,thayer,32
+west mineola,lake wissota,168
+west mineola,putney,35
+west mineola,anchorage,89
+north pole,canterbury,105
+canterbury,tacoma,156
+canterbury,j and l trailer court,73
+canterbury,komak wuacho,163
+canterbury,mccool junction,135
+canterbury,lukens,194
+tacoma,j and l trailer court,73
+tacoma,komak wuacho,183
+tacoma,mccool junction,7
+tacoma,lukens,176
+north pole,paroquet,121
+paroquet,steel city,105
+paroquet,home,69
+paroquet,greenbrier,17
+paroquet,west fork,86
+paroquet,park view,7
+paroquet,kanes creek,130
+paroquet,nixonville,8
+paroquet,hadley,174
+steel city,home,188
+steel city,greenbrier,81
+steel city,west fork,133
+steel city,park view,69
+steel city,kanes creek,155
+steel city,nixonville,200
+steel city,hadley,96
+north pole,crisfield crossing,35
+crisfield crossing,henard mill,22
+crisfield crossing,point phillip,120
+crisfield crossing,armorel,33
+crisfield crossing,toomsboro,145
+henard mill,point phillip,182
+henard mill,armorel,86
+henard mill,toomsboro,162
+red bridge,canterbury,165
+red bridge,paroquet,112
+red bridge,crisfield crossing,167

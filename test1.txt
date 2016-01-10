@@ -1,0 +1,110 @@
+north pole,wortham,169
+wortham,pumpkintown,7
+pumpkintown,rusk,67
+wortham,milnor,137
+milnor,mongle spring,127
+wortham,north greenfield,131
+north greenfield,litchfield,153
+wortham,carloss,170
+carloss,northridge,189
+wortham,clifty,60
+clifty,thompson,82
+pumpkintown,milnor,4
+pumpkintown,north greenfield,65
+pumpkintown,carloss,199
+pumpkintown,clifty,170
+north pole,pinehurst,45
+pinehurst,oak manor,43
+pinehurst,pisgah forest,56
+pinehurst,haynesville,199
+pinehurst,belfry,117
+pinehurst,mead,162
+pinehurst,saint rosalie,192
+pinehurst,accord,114
+pinehurst,tunnelton,124
+pinehurst,oakland park,111
+oak manor,pisgah forest,156
+oak manor,haynesville,35
+oak manor,belfry,195
+oak manor,mead,182
+oak manor,saint rosalie,131
+oak manor,accord,105
+oak manor,tunnelton,75
+oak manor,oakland park,20
+north pole,south spring acres,71
+south spring acres,glennville,99
+glennville,berry hill manor,151
+south spring acres,nowlin station,196
+nowlin station,zodiac,120
+south spring acres,dayton avenue,101
+dayton avenue,cove,102
+south spring acres,springhill beach,98
+springhill beach,camp corner,57
+south spring acres,roscoe,62
+roscoe,amador city,38
+south spring acres,de gonia springs,87
+de gonia springs,lee,123
+south spring acres,butlerville,22
+butlerville,clearmont,119
+glennville,nowlin station,64
+glennville,dayton avenue,161
+glennville,springhill beach,174
+glennville,roscoe,131
+glennville,de gonia springs,55
+glennville,butlerville,55
+north pole,dry run,48
+dry run,pine log,5
+pine log,sunny acres trailer park,193
+dry run,rocky ford,110
+rocky ford,rockdale,151
+dry run,gerlach,158
+gerlach,williamsport,115
+dry run,salem,76
+salem,westlawn,28
+dry run,quebec,55
+quebec,mount lawn,50
+dry run,kerner,59
+kerner,spring grove,17
+dry run,holland gin,100
+holland gin,gila,51
+dry run,butler,113
+butler,wynnewood,40
+pine log,rocky ford,140
+pine log,gerlach,112
+pine log,salem,179
+pine log,quebec,33
+pine log,kerner,66
+pine log,holland gin,32
+pine log,butler,162
+north pole,ashleyville,93
+ashleyville,new oregon,120
+new oregon,broad creek,116
+new oregon,ravenhurst,129
+new oregon,enka,41
+new oregon,sigby corners,100
+new oregon,dwyer,58
+new oregon,alexander crossroads,143
+new oregon,armour,86
+new oregon,plano,151
+new oregon,salmon creek,16
+new oregon,connors corner,55
+broad creek,ravenhurst,131
+broad creek,enka,13
+broad creek,sigby corners,52
+broad creek,dwyer,150
+broad creek,alexander crossroads,89
+broad creek,armour,81
+broad creek,plano,116
+broad creek,salmon creek,51
+broad creek,connors corner,94
+ashleyville,provo,144
+provo,hutchinson,82
+hutchinson,otter hill,27
+provo,badger,186
+badger,marketown,122
+hutchinson,badger,31
+new oregon,provo,33
+wortham,pinehurst,132
+wortham,south spring acres,175
+wortham,dry run,64
+wortham,ashleyville,128
