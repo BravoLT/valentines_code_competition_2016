@@ -1,5 +1,5 @@
 # The 2016 Valentines Day Code Challenge - BravoLT
-<img src="http://previews.123rf.com/images/sararoom/sararoom1209/sararoom120900080/15524932-illustration-of-cute-Cupid--Stock-Vector-cartoon-cupid-angel.jpg" width="200px" align="left">Cupid needs your help! He has a lot of Valentine's Day cards to deliver all over the world and the logistics are just a little too much for this little cherub. Use your genius to help this cute little baby out by giving the shortest routes to deliver all of his cards!
+<img src="http://bravolt.com/wp-content/uploads/2016/01/Bravo-Code-Challenge_2016-Valentines-Edition_3-01.jpg" width="200px" align="left">Cupid needs your help! He has a lot of Valentine's Day cards to deliver all over the world and the logistics are just a little too much for this little cherub. Use your genius to help this cute little baby out by giving the shortest routes to deliver all of his cards!
 <br><br><br>
 ## Summary
 You will need to write some software that takes a file and any number of city names. Your software will be called via a script `run.sh`. If preparation (compilation or other steps) are necessary, you should prepare a script `prepare.sh`. You can write the application in any language you want. The only caveats are below.
