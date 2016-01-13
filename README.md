@@ -1,4 +1,4 @@
-# The 2016 Valentines Day Code Challenge - BravoLT
+# The 2016 Valentine's Day Code Challenge - BravoLT
 <img src="http://bravolt.com/wp-content/uploads/2016/01/Bravo-Code-Challenge_2016-Valentines-Edition_3-01.jpg" width="200px" align="left">Cupid needs your help! He has a lot of Valentine's Day cards to deliver all over the world and the logistics are just a little too much for this little cherub. Use your genius to help this cute little baby out by giving the shortest routes to deliver all of his cards!
 <br><br><br>
 ## Summary
