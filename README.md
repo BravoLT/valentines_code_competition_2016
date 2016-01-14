@@ -4,7 +4,7 @@
 ## Summary
 You will need to write some software that takes a file and any number of city names. Your software will be called via a script `run.sh`. If preparation (compilation or other steps) are necessary, you should prepare a script `prepare.sh`. You can write the application in any language you want. The only caveats are below.
 
-1. Any special instructions should be include in a file `INSTALL.md`. These instructions should include any special tasks or environmental concerns Santa's DevOps team needs to know about to get your application running.
+1. Any special instructions should be include in a file `INSTALL.md`. These instructions should include any special tasks or environmental concerns Cupid's DevOps team needs to know about to get your application running.
 1. Special instructions should be reasonable to get your application running on a Mac running Yosemite with Homebrew.
 1. Your application should output as described in the *Details* section
 1. Your application cannot use licensed software or any other proprietary software that is not available to other participants or to those who will be assessing your effort.
@@ -91,7 +91,7 @@ A couple of files are available to make development and testing easier. These fi
 1. Wait for the results
 
 ## Winning
-In order to win the competition, your application must choose the shortest route for Santa to take in order to make all the stops specified by the input (i.e. the correct answer). The winner will be the application that gets the correct answer (accross multiple inputs) and runs with the shortest time (mean application runtime over the inputs).
+In order to win the competition, your application must choose the shortest route for Cupid to take in order to make all the stops specified by the input (i.e. the correct answer). The winner will be the application that gets the correct answer (accross multiple inputs) and runs with the shortest time (mean application runtime over the inputs).
 
 ## Question or Problems
 If you should have questions or problems, please, email [Dustin Clifford](mailto:dustin.clifford@bravolt.com "Dustin Clifford") or [Mike Nishizawa](mailto:michael@fortitude-solutions.com "Mike Nishizawa").
